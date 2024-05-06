@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/coe_347_simulations_website/static/js/main.9007c9a7.js",
+    "main.js": "/coe_347_simulations_website/static/js/main.c53084b4.js",
     "static/media/30Va20.gif": "/coe_347_simulations_website/static/media/30Va20.cef79098950f338ff506.gif",
     "static/media/Dmesh.gif": "/coe_347_simulations_website/static/media/Dmesh.a179b7d354070443d223.gif",
     "static/media/30Va0.gif": "/coe_347_simulations_website/static/media/30Va0.8c0580014dfd3ed8a08b.gif",
@@ -13,13 +13,14 @@
     "static/media/20Va10.gif": "/coe_347_simulations_website/static/media/20Va10.1962fce275991f51b720.gif",
     "static/media/10Va10.gif": "/coe_347_simulations_website/static/media/10Va10.4ef588eb1bf835ab7859.gif",
     "static/media/10Va20.gif": "/coe_347_simulations_website/static/media/10Va20.5e15b1fcfced4d8adc08.gif",
+    "static/media/texaslogo.png": "/coe_347_simulations_website/static/media/texaslogo.f42ebc266afeb92c3e22.png",
     "static/media/Bmesh.gif": "/coe_347_simulations_website/static/media/Bmesh.a81bc60de22aa6c777ab.gif",
     "static/media/Amesh.gif": "/coe_347_simulations_website/static/media/Amesh.a123aef620d3cad6765d.gif",
     "static/media/200w.gif": "/coe_347_simulations_website/static/media/200w.58c7b18b6f7d3c07d623.gif",
     "index.html": "/coe_347_simulations_website/index.html",
-    "main.9007c9a7.js.map": "/coe_347_simulations_website/static/js/main.9007c9a7.js.map"
+    "main.c53084b4.js.map": "/coe_347_simulations_website/static/js/main.c53084b4.js.map"
   },
   "entrypoints": [
-    "static/js/main.9007c9a7.js"
+    "static/js/main.c53084b4.js"
   ]
 }
