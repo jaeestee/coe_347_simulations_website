@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "website to view simulations for coe347 final",
   "main": "index.js",
-  "homepage": "https://jaeestee.github.io/npm_react_skeleton",
+  "homepage": "https://jaeestee.github.io/coe_347_simulations_website",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier": "prettier --single-quote --write .",
@@ -18,13 +18,13 @@
     "@types/react-css-modules": "^4.6.5",
     "@types/react-dom": "^18.2.7",
     "@types/react-router-dom": "^5.3.3",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^6.1.1",
     "prettier": "^3.0.3"
   },
   "dependencies": {
     "react-dom": "^17.0.2",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "^4.0.3",
+    "react-router-dom": "^6.13.0",
+    "react-scripts": "^5.0.1",
     "reactstrap": "^8.9.0"
   },
   "browserslist": {

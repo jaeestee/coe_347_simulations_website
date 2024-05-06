@@ -5,9 +5,11 @@ import { Test } from './Test';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+
+    <Router >
       <Test />
     </Router>
+    
   </React.StrictMode>,
   document.getElementById('react-root'),
 );
